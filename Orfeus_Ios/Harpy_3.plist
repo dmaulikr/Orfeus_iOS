@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>harpy000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 0}, {58, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 13}</string>
+			<key>spriteSize</key>
+			<string>{58, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {58, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harpy001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{27, 0}, {66, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 15}</string>
+			<key>spriteSize</key>
+			<string>{66, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{97, 3}, {66, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harpy002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 13}, {86, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 11}</string>
+			<key>spriteSize</key>
+			<string>{86, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 9}, {86, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harpy003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 30}, {48, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -7}</string>
+			<key>spriteSize</key>
+			<string>{48, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 10}, {48, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harpy004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 30}, {48, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-19, -8}</string>
+			<key>spriteSize</key>
+			<string>{48, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{365, 13}, {48, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harpy005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 30}, {50, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -6}</string>
+			<key>spriteSize</key>
+			<string>{50, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{450, 14}, {50, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harpy006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 30}, {60, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-20, -4}</string>
+			<key>spriteSize</key>
+			<string>{60, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1, 132}, {60, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harpy007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 0}, {80, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{80, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{90, 118}, {80, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

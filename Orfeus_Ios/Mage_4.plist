@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>mage2_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 5}, {74, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -2}</string>
+			<key>spriteSize</key>
+			<string>{74, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {74, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>mage3_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 6}, {70, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -2}</string>
+			<key>spriteSize</key>
+			<string>{70, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{91, 6}, {70, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>mage4_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{18, 10}, {68, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -5}</string>
+			<key>spriteSize</key>
+			<string>{68, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 1}, {68, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>mage5_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 11}, {70, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -5}</string>
+			<key>spriteSize</key>
+			<string>{70, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 10}, {70, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>mage6_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 4}, {62, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -1}</string>
+			<key>spriteSize</key>
+			<string>{62, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{355, 6}, {62, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>mage7_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{23, 0}, {62, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 2}</string>
+			<key>spriteSize</key>
+			<string>{62, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{435, 10}, {62, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+	</dict>
+</dict>
+</plist>
